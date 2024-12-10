@@ -17,7 +17,7 @@ class MyButton extends StatelessWidget {
         padding: EdgeInsets.all(25),
         child: Center(
             child: Icon(
-          Icons.bolt_outlined,
+          Icons.bolt,
           size: 30,
           color: Theme.of(context).colorScheme.inversePrimary,
         )),
