@@ -1,5 +1,5 @@
 # DarkMode / LightMode ⚡
 
-![Video preview](sample.gif)
+![A looping GIF](sample.gif)
 
 
